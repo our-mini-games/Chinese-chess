@@ -1,0 +1,302 @@
+[
+  [
+    {
+      "camp": "red",
+      "value": "炮2平5"
+    },
+    {
+      "camp": "black",
+      "value": "炮八平五"
+    },
+    {
+      "camp": "red",
+      "value": "炮5进4"
+    },
+    {
+      "camp": "black",
+      "value": "炮五进四"
+    },
+    {
+      "camp": "red",
+      "value": "兵3进1"
+    },
+    {
+      "camp": "black",
+      "value": "马八进七"
+    },
+    {
+      "camp": "red",
+      "value": "兵3进1"
+    },
+    {
+      "camp": "black",
+      "value": "卒七进一"
+    },
+    {
+      "camp": "red",
+      "value": "兵1进1"
+    },
+    {
+      "camp": "black",
+      "value": "马七进六"
+    },
+    {
+      "camp": "red",
+      "value": "兵1进1"
+    },
+    {
+      "camp": "black",
+      "value": "卒九进一"
+    },
+    {
+      "camp": "red",
+      "value": "车1进4"
+    },
+    {
+      "camp": "black",
+      "value": "马六进七"
+    },
+    {
+      "camp": "red",
+      "value": "车1进1"
+    },
+    {
+      "camp": "black",
+      "value": "马七进九"
+    },
+    {
+      "camp": "red",
+      "value": "车1平3"
+    },
+    {
+      "camp": "black",
+      "value": "马九退八"
+    },
+    {
+      "camp": "red",
+      "value": "车3平2"
+    },
+    {
+      "camp": "black",
+      "value": "马八进七"
+    },
+    {
+      "camp": "red",
+      "value": "车2进4"
+    },
+    {
+      "camp": "black",
+      "value": "车九进五"
+    },
+    {
+      "camp": "red",
+      "value": "车2平1"
+    },
+    {
+      "camp": "black",
+      "value": "车九平六"
+    },
+    {
+      "camp": "red",
+      "value": "车1平2"
+    },
+    {
+      "camp": "black",
+      "value": "车六进四"
+    }
+  ],
+  [
+    {
+      "camp": "red",
+      "value": "炮2平5"
+    },
+    {
+      "camp": "black",
+      "value": "马八进七"
+    },
+    {
+      "camp": "red",
+      "value": "炮8进2"
+    },
+    {
+      "camp": "black",
+      "value": "卒七进一"
+    },
+    {
+      "camp": "red",
+      "value": "炮8平5"
+    },
+    {
+      "camp": "black",
+      "value": "象七进五"
+    },
+    {
+      "camp": "red",
+      "value": "马2进1"
+    },
+    {
+      "camp": "black",
+      "value": "马七进六"
+    },
+    {
+      "camp": "red",
+      "value": "兵7进1"
+    },
+    {
+      "camp": "black",
+      "value": "炮八平六"
+    },
+    {
+      "camp": "red",
+      "value": "前炮平1"
+    },
+    {
+      "camp": "black",
+      "value": "车九平八"
+    },
+    {
+      "camp": "red",
+      "value": "炮5进4"
+    },
+    {
+      "camp": "black",
+      "value": "士六进五"
+    },
+    {
+      "camp": "red",
+      "value": "炮1平5"
+    },
+    {
+      "camp": "black",
+      "value": "马二进三"
+    },
+    {
+      "camp": "red",
+      "value": "车1平2"
+    },
+    {
+      "camp": "black",
+      "value": "车八进九"
+    },
+    {
+      "camp": "red",
+      "value": "马1退2"
+    },
+    {
+      "camp": "black",
+      "value": "马六进七"
+    },
+    {
+      "camp": "red",
+      "value": "前炮退1"
+    },
+    {
+      "camp": "black",
+      "value": "卒七进一"
+    },
+    {
+      "camp": "red",
+      "value": "车9进2"
+    },
+    {
+      "camp": "black",
+      "value": "炮二平一"
+    },
+    {
+      "camp": "red",
+      "value": "车9平2"
+    },
+    {
+      "camp": "black",
+      "value": "车一平二"
+    },
+    {
+      "camp": "red",
+      "value": "车2进7"
+    },
+    {
+      "camp": "black",
+      "value": "炮六退二"
+    },
+    {
+      "camp": "red",
+      "value": "马8进7"
+    },
+    {
+      "camp": "black",
+      "value": "车二进四"
+    },
+    {
+      "camp": "red",
+      "value": "前炮平2"
+    },
+    {
+      "camp": "black",
+      "value": "卒七平六"
+    },
+    {
+      "camp": "red",
+      "value": "炮5进4"
+    },
+    {
+      "camp": "black",
+      "value": "士四进五"
+    },
+    {
+      "camp": "red",
+      "value": "炮2进1"
+    },
+    {
+      "camp": "black",
+      "value": "卒三进一"
+    },
+    {
+      "camp": "red",
+      "value": "兵7进1"
+    },
+    {
+      "camp": "black",
+      "value": "车二平三"
+    },
+    {
+      "camp": "red",
+      "value": "马7进6"
+    },
+    {
+      "camp": "black",
+      "value": "车三平四"
+    },
+    {
+      "camp": "red",
+      "value": "马6退8"
+    },
+    {
+      "camp": "black",
+      "value": "炮一进四"
+    },
+    {
+      "camp": "red",
+      "value": "相3进5"
+    },
+    {
+      "camp": "black",
+      "value": "炮一平五"
+    },
+    {
+      "camp": "red",
+      "value": "仕4进5"
+    },
+    {
+      "camp": "black",
+      "value": "将五平四"
+    },
+    {
+      "camp": "red",
+      "value": "车2平1"
+    },
+    {
+      "camp": "black",
+      "value": "马三进二"
+    }
+  ]
+]
